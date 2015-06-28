@@ -1,0 +1,17 @@
+// Typography
+
+.title {
+  text-align: center;
+  font-size: $h1-font-size;
+  text-transform: uppercase;
+  letter-spacing: $base-letter-spacing;
+}
+
+.body {
+
+}
+
+.body--lead {
+  text-align: center;
+  font-size: $large-font-size;
+}
