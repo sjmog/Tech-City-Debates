@@ -1,6 +1,6 @@
 .backgrounded {
   background-color: $blue;
-  * {
+  *:not(input) {
     color: rgba(white, 0.9) !important;
     border-color: rgba(white, 0.9) !important;
   }

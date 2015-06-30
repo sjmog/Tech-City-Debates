@@ -1,0 +1,10 @@
+// forms and inputs
+
+label {
+  padding-left: $base-spacing;
+  margin-bottom: $small-spacing;
+}
+
+input[type="email"] {
+  padding: $small-spacing $base-spacing;
+}

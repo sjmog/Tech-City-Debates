@@ -5,13 +5,20 @@
   font-size: $h1-font-size;
   text-transform: uppercase;
   letter-spacing: $base-letter-spacing;
+  margin-bottom: $base-spacing;
+}
+
+.title--small {
+  font-size: $h2-font-size;
 }
 
 .body {
-
+  max-width: $max-width/2;
+  margin: 0 auto $base-spacing;
 }
 
 .body--lead {
   text-align: center;
   font-size: $large-font-size;
+  max-width: $max-width;
 }
