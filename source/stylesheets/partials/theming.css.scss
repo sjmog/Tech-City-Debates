@@ -1,6 +1,7 @@
 .backgrounded {
   background-color: $blue;
   * {
-    color: white !important;
+    color: rgba(white, 0.9) !important;
+    border-color: rgba(white, 0.9) !important;
   }
 }
